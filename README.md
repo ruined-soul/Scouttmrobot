@@ -4,8 +4,11 @@ A Telegram Bot Written In Python To Upload Medias To telegra.ph
 # DEPLOY
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
 
+## HEROKU
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ruined-soul/Scouttmrobot/)
 
+## ZEET
+[![Deploy](https://deploy.zeet.co/gun.svg)](https://deploy.zeet.co/?url=https://github.com/ruined-soul/Scouttmrobot)
 # Local Machine
 Clone the repository
 
